@@ -3,4 +3,4 @@
 
 只提供搜索和分类功能
 
-[demo](http://lugezuishuai/can-store/index.html)
+[demo](https://lugezuishuai.github.io/can-store/index.html)
